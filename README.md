@@ -6,9 +6,9 @@
 ### 📫 Contact  
 **Email:** lasyareddy.jetti@gmail.com  
 **Phone:** 8801177005  
-**LinkedIn:** *your-link-here*  
-**GitHub:** *your-link-here*  
-**LeetCode:** *your-link-here*  
+**LinkedIn:** [Lasya Jetti ](https://www.linkedin.com/in/lasya-jetti-83a2aa28b/) 
+**GitHub:** [Jlasi17](https://github.com) 
+**LeetCode:** [max ](https://leetcode.com/u/4G9QJSsAdq/) 
 **Address:** Leguntapadu, Kovur, Nellore, Andhra Pradesh, 524137  
 
 ---
@@ -18,43 +18,17 @@ Motivated and detail-oriented Computer Science student with a strong foundation 
 
 ---
 
-## 🎓 Education  
-
-- **Amrita School of Engineering, Amritapuri**  
-  *B.Tech in Computer Science and Engineering* — **CGPA: 8.98/10**  
-  *2022 – 2026*
-
-- **Narayana Junior College, Nellore**  
-  *Class XII, MPC* — **94%**  
-  *2020 – 2022*
-
-- **Bhashyam EM High School, Nellore**  
-  *Class X* — **99.1%**  
-  *2019 – 2020*
-
----
-
-## 💼 Experience  
-
-### **NRSC (National Remote Sensing Centre) – Intern**  
-**Change Detection | Apr 2025 – May 2025 | Balanagar, Hyderabad**  
-- Worked on aerial image change detection using **U-Net deep learning techniques**.  
-- Implemented a pipeline for detecting and segmenting spatial-temporal changes.  
-- Hands-on experience with preprocessing, training, and evaluation for remote sensing datasets.
-
----
-
 ## 🚀 Projects  
 
-### **Surplus – Smart Surplus Management System**  
+### [**Surplus – Smart Surplus Management System**] (https://github.com/Jlasi17/cloud.git)
 - Built a **cloud-based platform** connecting grocery vendors with beneficiaries.  
 - Used **GCP** and **MongoDB** for real-time surplus tracking and distribution.  
 
-### **MemoryLane: Cognitive Care Platform for Alzheimer’s Patients**  
+### [**MemoryLane: Cognitive Care Platform for Alzheimer’s Patients**](https://github.com/Jlasi17/memory-lane.git) 
 - Full-stack web platform with **role-based access** for doctors, families, and patients.  
 - Included features like MRI upload, therapy sessions, cognitive games, and progress tracking.  
 
-### **SecureCrypto Pay**  
+### [**SecureCrypto Pay** ] (https://github.com/Jlasi17/SecureCrypto-Pay-.git)
 - Developed a secure server-client transaction system using **RSA**, **SHA-256 OTP hashing**, and **two-step verification**.  
 - Strengthened practical understanding of applied cryptography.  
 
@@ -64,32 +38,56 @@ Motivated and detail-oriented Computer Science student with a strong foundation 
 
 ---
 
-## 🌱 Social Outreach  
+## 🛠️ Tech Stack (with Images!)
 
-- **World Cleanup Day Volunteer — Sept 2025**  
-  Participated in a public cleanup initiative, promoting environmental sustainability through plastic waste collection and disposal.
+### 👩‍💻 Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+</p>
 
-- **Nurturing Young Minds — Nov 2024**  
-  Conducted school awareness sessions on health and well-being.  
-  Received **90% positive feedback**, highlighting improved student understanding.
+---
+
+### ⚙️ Frameworks, Libraries & Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+</p>
 
 ---
 
-## 🛠 Technical Skills  
-
-### **Programming Languages**  
-Python, C++, Java (Basic)
-
-### **Frameworks & Libraries**  
-React.js, FastAPI, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib
-
-### **Databases**  
-MongoDB, PostgreSQL
-
-### **Cloud Platforms**  
-Google Cloud Platform (GCP)
-
-### **Languages**  
-Telugu (Native), English (Professional), Hindi (Elementary)
+### 🤖 AI / ML  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50"/>
+</p>
 
 ---
+
+### 🗄 Databases  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+</p>
+
+---
+
+### ☁ Cloud  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+</p>
+
+---
+
