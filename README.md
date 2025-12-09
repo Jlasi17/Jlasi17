@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3000&pause=1200&color=F0AB86&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jetti+Lasya;Aspiring+Software+Engineer;Cloud+%26+AI+Enthusiast;Problem+Solver+%26+Innovator" />
-</p>
+<h1 align="center">Hi 👋, I'm Jetti Lasya</h1>
+<h3 align="center">💻 Aspiring Software Engineer | Cloud & AI Enthusiast | Problem Solver</h3>
+
 ---
+
 
 ## 📫 Contact
 
@@ -108,7 +109,9 @@ Motivated and detail-oriented Computer Science student with strong foundations i
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
 </p>
+
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jlasi17&style=for-the-badge&color=F5CEC7" />
 </p>
