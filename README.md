@@ -1,92 +1,90 @@
-<!-- Animated Header Banner -->
-<div align="center" style="padding: 20px; background: linear-gradient(135deg, #F5CEC7, #F3CEB0, #F0AB86); border-radius: 20px; animation: fadeIn 2s ease-in-out;">
-  <h1 style="font-family: 'Poppins', sans-serif; font-size: 40px; font-weight: 700;">Hi 👋, I'm <span style="color:#DB6551;">Jetti Lasya</span></h1>
-  <h3 style="font-family: 'Poppins', sans-serif; font-weight: 500;">💻 Aspiring Software Engineer | Cloud & AI Enthusiast | Problem Solver</h3>
-</div>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.card {
-  border-radius: 15px;
-  padding: 20px;
-  margin: 10px;
-  background: #FFF5EF;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  width: 180px;
-  text-align: center;
-  transition: transform 0.3s;
-}
-.card:hover { transform: translateY(-5px); }
-.skills-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 15px;
-}
-.counter {
-  margin-top: 20px;
-  padding: 15px;
-  font-size: 18px;
-  background: #F5CEC7;
-  width: fit-content;
-  border-radius: 10px;
-}
-</style>
+<!-- 🎀 ANIMATED HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3000&pause=1200&color=F0AB86&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jetti+Lasya;Aspiring+Software+Engineer;Cloud+%26+AI+Enthusiast;Problem+Solver+%26+Innovator" />
+</p>
 
 ---
 
-<!-- Contact Section -->
-<h2>📫 Contact</h2>
-<ul>
-  <li><strong>Email:</strong> lasyareddy.jetti@gmail.com</li>
-  <li><strong>Phone:</strong> 8801177005</li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lasya-jetti-83a2aa28b/">Lasya Jetti</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/Jlasi17">Jlasi17</a></li>
-  <li><strong>LeetCode:</strong> <a href="https://leetcode.com/u/4G9QJSsAdq/">max</a></li>
-  <li><strong>Address:</strong> Leguntapadu, Kovur, Nellore, Andhra Pradesh, 524137</li>
-</ul>
+<!-- 👀 VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jlasi17&style=for-the-badge&color=F5CEC7" />
+</p>
 
 ---
 
-<!-- Summary Section -->
-<h2>📝 Summary</h2>
-<p>Motivated and detail-oriented Computer Science student with a strong foundation in algorithms, cloud computing, software development, and problem-solving. Passionate about building impactful applications and eager to contribute to innovative real-world projects.</p>
+## 🌟 **About Me**
+Motivated and detail-oriented Computer Science student passionate about **Cloud**, **AI/ML**, **problem-solving**, and building meaningful applications.  
+Actively working on projects involving **full-stack development**, **GCP**, and **machine learning**.
 
 ---
 
-<!-- Projects Section -->
-<h2>🚀 Projects</h2>
-<ul>
-  <li><strong>Surplus – Smart Surplus Management System:</strong> Cloud-based platform using GCP + MongoDB for real-time surplus tracking.</li>
-  <li><strong>MemoryLane – Cognitive Care Platform:</strong> Full-stack healthcare platform with MRI upload + cognitive games.</li>
-  <li><strong>SecureCrypto Pay:</strong> Secure RSA + SHA-256 based client-server transaction system.</li>
-  <li><strong>Loan Default Prediction:</strong> ML models (XGBoost, RF, NN) optimized for recall.</li>
-</ul>
+## 📫 **Contact**
+- **Email:** lasyareddy.jetti@gmail.com  
+- **Phone:** 8801177005  
+- **LinkedIn:** [Lasya Jetti](https://www.linkedin.com/in/lasya-jetti-83a2aa28b/)  
+- **GitHub:** [Jlasi17](https://github.com/Jlasi17)  
+- **LeetCode:** [max](https://leetcode.com/u/4G9QJSsAdq/)  
+- **Address:** Leguntapadu, Kovur, Nellore, AP
 
 ---
 
-<!-- Skills in Card Format -->
-<h2>🛠️ Skills</h2>
-<div class="skills-container">
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><p>Python</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"><p>C++</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"><p>Java</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"><p>React</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"><p>FastAPI</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"><p>TensorFlow</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"><p>PyTorch</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"><p>MongoDB</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"><p>PostgreSQL</p></div>
-  <div class="card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"><p>GCP</p></div>
-</div>
+# 🚀 **Projects**
+### 🔹 [Surplus – Smart Surplus Management System](https://github.com/Jlasi17/cloud.git)
+- Cloud-based platform linking grocery vendors with beneficiaries  
+- Built using **GCP** + **MongoDB**
+
+### 🔹 [MemoryLane: Alzheimer’s Cognitive Support Suite](https://github.com/Jlasi17/memory-lane.git)
+- Full-stack web app with MRI upload, role-based access, therapy sessions, cognitive games
+
+### 🔹 [SecureCrypto Pay](https://github.com/Jlasi17/SecureCrypto-Pay-.git)
+- Secure client–server system using **RSA**, **SHA-256**, OTP hashing & double verification
+
+### 🔹 Loan Default Prediction  
+- ML models: **Logistic Regression**, **XGBoost**, **RF**, **Neural Networks**
 
 ---
 
-<!-- Visitor Counter -->
-<div class="counter">
-  <strong>👀 Visitor Count:</strong>
-  <img src="https://profile-counter.glitch.me/LasyaJetti/count.svg" />
-</div>
+# 🛠️ **Skills (Beautiful Card Format)**
+
+## 🎨 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" />
+</p>
+
+---
+
+## ⚙️ Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,tensorflow,pytorch,postman,bootstrap,figma" />
+</p>
+
+---
+
+## 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,sklearn" />
+</p>
+
+---
+
+## 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+---
+
+## ☁ Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" />
+</p>
+
+---
+
+# 🌼 GitHub Stats (Optional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jlasi17&show_icons=true&theme=rose_pine" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jlasi17&theme=rose_pine" height="150"/>
+</p>
+
+---
