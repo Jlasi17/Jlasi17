@@ -8,6 +8,7 @@
 
 **Email:** lasyareddy.jetti@gmail.com  
 **Phone:** 8801177005  
+**portfolio:** [check my portfolio](https://jlasi17.github.io/portfolio/)
 **LinkedIn:** [Lasya Jetti](https://www.linkedin.com/in/lasya-jetti-83a2aa28b/)  
 **GitHub:** [Jlasi17](https://github.com/Jlasi17)  
 **LeetCode:** [Max](https://leetcode.com/u/4G9QJSsAdq/)  
