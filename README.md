@@ -6,13 +6,14 @@
 
 ## 📫 Contact
 
-**Email:** lasyareddy.jetti@gmail.com  
-**Phone:** 8801177005  
-**portfolio:** [check my portfolio](https://jlasi17.github.io/portfolio/) 
-**LinkedIn:** [Lasya Jetti](https://www.linkedin.com/in/lasya-jetti-83a2aa28b/)  
-**GitHub:** [Jlasi17](https://github.com/Jlasi17)  
-**LeetCode:** [Max](https://leetcode.com/u/4G9QJSsAdq/)  
-**Address:** Leguntapadu, Kovur, Nellore, Andhra Pradesh, 524137
+
+- **Email:** lasyareddy.jetti@gmail.com  
+- **Phone:** +91 88011 77005  
+- **Portfolio:** https://jlasi17.github.io/portfolio/  
+- **LinkedIn:** https://www.linkedin.com/in/lasya-jetti-83a2aa28b/  
+- **GitHub:** https://github.com/Jlasi17  
+- **LeetCode:** https://leetcode.com/u/4G9QJSsAdq/  
+- **Location:** Nellore, Andhra Pradesh, India
 
 ---
 
