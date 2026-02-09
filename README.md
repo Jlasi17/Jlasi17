@@ -22,37 +22,45 @@
 Motivated and detail-oriented Computer Science student with strong foundations in algorithms, cloud computing, AI/ML, and full-stack development. Passionate about building impactful applications and solving real-world problems using clean, efficient, and scalable code.
 
 ---
-
 ## 🚀 Projects
 
-### 🔹 [Surplus – Smart Surplus Management System](https://github.com/Jlasi17/cloud.git)
+### 🔹 [Apple-Style GSAP Landing Page](https://github.com/Jlasi17/gsap_apple)
+- An interactive, 3D scroll-driven landing page focused on high-end motion design.
+- Built using **React**, **GSAP (ScrollTrigger)**, and **Three.js (R3F)**.
+- Features custom 3D model interactions, video-texture rendering, and smooth animation timelines.
 
-- Cloud-based platform connecting grocery vendors with beneficiaries
-- Built using **GCP**, **FastAPI**, and **MongoDB**
-- Features include real-time surplus tracking and distribution
+---
+
+### 🔹 [Mini Pomodoro Timer](https://github.com/Jlasi17/pomodoro-timer)
+- A lightweight desktop productivity tool with customizable focus/break cycles.
+- Developed using **JavaScript**, **HTML/CSS**, and **Electron** for cross-platform desktop support.
+- Features automated phase switching, sound alerts, and session tracking.
+
+---
+
+### 🔹 [Surplus – Smart Surplus Management System](https://github.com/Jlasi17/cloud.git)
+- Cloud-based platform connecting grocery vendors with beneficiaries.
+- Built using **GCP**, **FastAPI**, and **MongoDB**.
+- Features include real-time surplus tracking and distribution.
 
 ---
 
 ### 🔹 [MemoryLane: Cognitive Care Platform](https://github.com/Jlasi17/memory-lane.git)
-
-- An AI-powered support platform for Alzheimer’s patients
-- Includes MRI uploads, cognitive therapy games, role-based access
-- Built using **React**, **FastAPI**, and **MongoDB**
+- An AI-powered support platform for Alzheimer’s patients.
+- Includes MRI uploads, cognitive therapy games, and role-based access.
+- Built using **React**, **FastAPI**, and **MongoDB**.
 
 ---
 
 ### 🔹 [SecureCrypto Pay](https://github.com/Jlasi17/SecureCrypto-Pay-.git)
-
-- Secure transaction system using **RSA**, **SHA-256**, and OTP hashing
-- Client–server model with two-step verification
-- Focus on applied cryptography and system security
+- Secure transaction system using **RSA**, **SHA-256**, and OTP hashing.
+- Client–server model with two-step verification focused on system security.
 
 ---
 
 ### 🔹 Loan Default Prediction
-
-- Models used: **XGBoost**, **Random Forest**, **Logistic Regression**, **Neural Networks**
-- Optimized for **maximum recall** and balanced performance
+- Models used: **XGBoost**, **Random Forest**, **Logistic Regression**, and **Neural Networks**.
+- Optimized for **maximum recall** and balanced performance in financial risk assessment.
 
 ---
 
