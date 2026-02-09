@@ -19,22 +19,9 @@ Motivated and detail-oriented **Computer Science student** with strong foundatio
 ---
 
 ### 📊 GitHub & Coding Analytics
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jlasi17&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlasi17&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
 
 <p align="center">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jlasi17&theme=rose_pine&hide_border=true" />
-</p>
-
----
-
-### 💡 Competitive Programming
-<p align="center">
-  <a href="https://leetcode.com/u/4G9QJSsAdq/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=4G9QJSsAdq&theme=dark" alt="LeetCode Stats" />
-  </a>
 </p>
 
 ---
