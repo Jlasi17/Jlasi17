@@ -18,10 +18,23 @@ Motivated and detail-oriented **Computer Science student** with strong foundatio
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub & Coding Analytics
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jlasi17&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jlasi17&theme=rose_pine&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jlasi17&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlasi17&layout=compact&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jlasi17&theme=rose_pine&hide_border=true" />
+</p>
+
+---
+
+### 💡 Competitive Programming
+<p align="center">
+  <a href="https://leetcode.com/u/4G9QJSsAdq/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=4G9QJSsAdq&theme=dark" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -30,7 +43,7 @@ Motivated and detail-oriented **Computer Science student** with strong foundatio
 
 ### 🔹 [Apple-Style GSAP Landing Page](https://github.com/Jlasi17/gsap_apple)
 *Interactive 3D scroll-driven experience inspired by high-end motion design.*
-- **Tech:** React, GSAP (ScrollTrigger), Three.js (R3F), TailwindCSS.
+- **Tech:** React, GSAP, Three.js (R3F), TailwindCSS.
 - **Key Feature:** Custom 3D model interactions with dynamic video-texture screen rendering.
 
 ---
@@ -45,14 +58,13 @@ Motivated and detail-oriented **Computer Science student** with strong foundatio
 ### 🔹 [MemoryLane: Cognitive Care Platform](https://github.com/Jlasi17/memory-lane.git)
 *AI-powered support platform for Alzheimer’s patients.*
 - **Tech:** React, FastAPI, MongoDB, AI/ML.
-- **Key Feature:** MRI upload analysis and cognitive therapy games with role-based access.
+- **Key Feature:** MRI upload analysis and cognitive therapy games.
 
 ---
 
 ### 🔹 [Surplus – Smart Surplus Management](https://github.com/Jlasi17/cloud.git)
 *Cloud-based platform connecting vendors with beneficiaries to reduce food waste.*
 - **Tech:** GCP, FastAPI, MongoDB.
-- **Key Feature:** Real-time surplus tracking and automated distribution workflows.
 
 ---
 
@@ -79,6 +91,12 @@ Motivated and detail-oriented **Computer Science student** with strong foundatio
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Jlasi17">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jlasi17&style=for-the-badge&color=F5CEC7" />
