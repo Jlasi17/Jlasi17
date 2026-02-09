@@ -1,127 +1,89 @@
 <h1 align="center">Hi 👋, I'm Jetti Lasya</h1>
 <h3 align="center">💻 Aspiring Software Engineer | Cloud & AI Enthusiast | Problem Solver</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Scalable+Applications;Cloud+%26+AI+Enthusiast;Full+Stack+Developer;Creative+Motion+Design" alt="Typing SVG" />
+</p>
 
-
-## 📫 Contact
-
-
-- **Email:** lasyareddy.jetti@gmail.com  
-- **Phone:** +91 88011 77005  
-- **Portfolio:** https://jlasi17.github.io/portfolio/  
-- **LinkedIn:** https://www.linkedin.com/in/lasya-jetti-83a2aa28b/  
-- **GitHub:** https://github.com/Jlasi17  
-- **LeetCode:** https://leetcode.com/u/4G9QJSsAdq/  
-- **Location:** Nellore, Andhra Pradesh, India
+<p align="center">
+  <a href="https://linkedin.com/in/lasya-jetti-83a2aa28b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://jlasi17.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:lasyareddy.jetti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 📝 Summary
-
-Motivated and detail-oriented Computer Science student with strong foundations in algorithms, cloud computing, AI/ML, and full-stack development. Passionate about building impactful applications and solving real-world problems using clean, efficient, and scalable code.
+### 📝 Summary
+Motivated and detail-oriented **Computer Science student** with strong foundations in algorithms, cloud computing, AI/ML, and full-stack development. I thrive on building impactful applications and solving real-world problems using clean, efficient, and scalable code.
 
 ---
-## 🚀 Projects
+
+### 📊 GitHub Analytics
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jlasi17&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jlasi17&theme=rose_pine&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔹 [Apple-Style GSAP Landing Page](https://github.com/Jlasi17/gsap_apple)
-- An interactive, 3D scroll-driven landing page focused on high-end motion design.
-- Built using **React**, **GSAP (ScrollTrigger)**, and **Three.js (R3F)**.
-- Features custom 3D model interactions, video-texture rendering, and smooth animation timelines.
+*Interactive 3D scroll-driven experience inspired by high-end motion design.*
+- **Tech:** React, GSAP (ScrollTrigger), Three.js (R3F), TailwindCSS.
+- **Key Feature:** Custom 3D model interactions with dynamic video-texture screen rendering.
 
 ---
 
 ### 🔹 [Mini Pomodoro Timer](https://github.com/Jlasi17/pomodoro-timer)
-- A lightweight desktop productivity tool with customizable focus/break cycles.
-- Developed using **JavaScript**, **HTML/CSS**, and **Electron** for cross-platform desktop support.
-- Features automated phase switching, sound alerts, and session tracking.
-
----
-
-### 🔹 [Surplus – Smart Surplus Management System](https://github.com/Jlasi17/cloud.git)
-- Cloud-based platform connecting grocery vendors with beneficiaries.
-- Built using **GCP**, **FastAPI**, and **MongoDB**.
-- Features include real-time surplus tracking and distribution.
+*Lightweight cross-platform desktop productivity tool.*
+- **Tech:** JavaScript, Electron, HTML/CSS.
+- **Key Feature:** Automated phase switching with sound alerts and draggable window support.
 
 ---
 
 ### 🔹 [MemoryLane: Cognitive Care Platform](https://github.com/Jlasi17/memory-lane.git)
-- An AI-powered support platform for Alzheimer’s patients.
-- Includes MRI uploads, cognitive therapy games, and role-based access.
-- Built using **React**, **FastAPI**, and **MongoDB**.
+*AI-powered support platform for Alzheimer’s patients.*
+- **Tech:** React, FastAPI, MongoDB, AI/ML.
+- **Key Feature:** MRI upload analysis and cognitive therapy games with role-based access.
 
 ---
 
-### 🔹 [SecureCrypto Pay](https://github.com/Jlasi17/SecureCrypto-Pay-.git)
-- Secure transaction system using **RSA**, **SHA-256**, and OTP hashing.
-- Client–server model with two-step verification focused on system security.
-
----
-
-### 🔹 Loan Default Prediction
-- Models used: **XGBoost**, **Random Forest**, **Logistic Regression**, and **Neural Networks**.
-- Optimized for **maximum recall** and balanced performance in financial risk assessment.
+### 🔹 [Surplus – Smart Surplus Management](https://github.com/Jlasi17/cloud.git)
+*Cloud-based platform connecting vendors with beneficiaries to reduce food waste.*
+- **Tech:** GCP, FastAPI, MongoDB.
+- **Key Feature:** Real-time surplus tracking and automated distribution workflows.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
-
+### 👩‍💻 Languages & Core
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,ts" />
 </p>
-
----
 
 ### ⚙️ Frameworks, Libraries & Tools
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react,threejs,electron,tailwind,bootstrap,fastapi,postman,figma,vite" />
 </p>
 
----
-
-### 🤖 AI / ML
-
+### 🤖 AI / ML & Data
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mongodb,postgres" />
 </p>
 
----
-
-### 🗄 Databases
-
+### ☁ Cloud & Deployment
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-</p>
-
----
-
-### ☁ Cloud
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=gcp,github,githubactions,vercel" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jlasi17&style=for-the-badge&color=F5CEC7" />
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
